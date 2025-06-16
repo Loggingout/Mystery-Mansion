@@ -33,16 +33,16 @@ body {
 }
 
 .slogan-title {
-    font-size: 2em;
-    color: #333;
+    font-size: 3.5em;
+    color: white;
     font-weight: bold;
     margin-top: 20px;
 }
 
 .slogan-description {
-    font-size: 1.2em;
-    color: #666;
-    margin-top: 10px;
+    font-size: 2.5em;
+    color: white;
+    margin-top: 70px;
 }
 
 
