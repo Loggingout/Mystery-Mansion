@@ -28,6 +28,8 @@ body {
     background: url("https://picsum.photos/1000/300") no-repeat center center;
     width: 100px;
     height: 500px;
+    max-width: 100%;
+    background-size: cover;
 }
 
 .header-background {
