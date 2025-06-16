@@ -10,8 +10,18 @@ body {
     color: #333;
 }
 
+.brand-name {
+    font-family: Franklin Gothic Medium, sans-serif;
+}
+
 .nav-list {
     list-style-type: none;
     padding: 0;
     margin: 0;
+}
+
+.header-background {
+    background-image: linear-gradient( 109.6deg,  rgba(75,228,255,1) 11.2%, rgba(188,204,251,1) 100.6% );
+    background-size: cover;
+    background-position: center;
 }
