@@ -48,10 +48,10 @@ svg {
 
 .slogan-title {
     font-size: 3.5em;
-    color: black;
+    color: white;
     font-weight: bold;
     margin-top: 1.5em;
-    font-family: Bahnschrift SemiBold, sans-serif;
+    font-family: Impact, sans-serif;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
