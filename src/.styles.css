@@ -66,6 +66,11 @@ svg {
 }
 
 label {
+    color: black;
+    font-weight: bold;
+}
+
+input {
     border: 2px solid black;
 }
 
