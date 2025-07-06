@@ -58,10 +58,12 @@ svg {
 .slogan-description {
     font-size: 2.5em;
     color: white;
-    margin-top: 1.5em;
+    margin-top: 4.5em;
     font-family: Impact, sans-serif;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
+
+
 
 /* Login Form Styles */
 .login-header-background {
