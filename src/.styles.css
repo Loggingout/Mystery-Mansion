@@ -75,7 +75,6 @@ body {
     background-size: cover;
 }
 
-
 .card-background {
     background-image: radial-gradient( circle farthest-corner at 6.3% 21.8%,  rgba(236,6,117,1) 0%, rgba(13,32,67,1) 90% );
 }
@@ -88,3 +87,13 @@ body {
     color: white;
 }
 
+
+/* Login Form Styles */
+.login-form-container {
+    background-color: #fff;
+    width: 40%;
+    margin: 5em auto;
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0px 8px 18px rgba(0, 0, 0, 0.1);
+}
