@@ -58,6 +58,11 @@ svg {
     margin-top: 4.5em;
 }
 
+.slogan-container {
+    width: 40%;
+    margin: 0 auto;
+    padding: 1.5em;
+}
 
 /* Login Form Styles */
 .login-header-background {
