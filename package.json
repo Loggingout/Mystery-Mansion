@@ -17,6 +17,7 @@
     "vite": "^6.3.5"
   },
   "dependencies": {
+    "@auth/express": "^0.11.0",
     "@popperjs/core": "^2.11.8",
     "@supabase/supabase-js": "^2.50.3",
     "bootstrap": "^5.3.6",
