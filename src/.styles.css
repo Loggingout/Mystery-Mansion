@@ -70,9 +70,6 @@ label {
     font-weight: bold;
 }
 
-form input {
-    border: 2px solid black;
-}
 
 .login-form-container {
     background-color: #fff;
@@ -80,7 +77,7 @@ form input {
     margin: 5em auto;
     padding: 2em;
     border-radius: 10px;
-    border: 2px solid red;
+    border: 1.5px solid orange;
     box-shadow: 0px 8px 18px rgba(0, 0, 0, 0.1);
 }
 
