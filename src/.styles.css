@@ -10,6 +10,12 @@ body {
     color: #333;
 }
 
+.header-background {
+    background-image: linear-gradient( 109.6deg,  rgba(75,228,255,1) 11.2%, rgba(188,204,251,1) 100.6% );
+    background-size: cover;
+    background-position: center;
+}
+
 .brand-name {
     font-family: Impact, sans-serif;
 }
@@ -62,6 +68,13 @@ body {
     font-family: Impact, sans-serif;
 }
 
+.features-container {
+    background-image: url('C:\Users\someo\OneDrive\Desktop\Mystery Mansion\src\assets\images\Features Background.jpg');
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+
 
 .card-background {
     background-image: radial-gradient( circle farthest-corner at 6.3% 21.8%,  rgba(236,6,117,1) 0%, rgba(13,32,67,1) 90% );
@@ -75,8 +88,3 @@ body {
     color: white;
 }
 
-.header-background {
-    background-image: linear-gradient( 109.6deg,  rgba(75,228,255,1) 11.2%, rgba(188,204,251,1) 100.6% );
-    background-size: cover;
-    background-position: center;
-}
