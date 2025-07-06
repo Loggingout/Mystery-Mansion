@@ -42,6 +42,9 @@ svg {
     color: white;
 }
 
+.slogan-container {
+    padding: 30px;
+}
 
 .slogan-title {
     font-size: 3.5em;
