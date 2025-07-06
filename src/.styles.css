@@ -44,6 +44,7 @@ svg {
 
 .slogan-container {
     padding: 10% 0;
+    text-wrap: wrap;
 }
 
 .slogan-title {
