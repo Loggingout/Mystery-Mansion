@@ -20,6 +20,10 @@ body {
     margin: 0;
 }
 
+.nav-list a {
+    margin: 2em 0;
+}
+
 .nav-item {
     color: black;
 }
@@ -29,7 +33,7 @@ body {
 }
 
 .slogan-img{
-    background: url("https://picsum.photos/1000/300") no-repeat center center;
+    background: url("C:/Users/someo/OneDrive/Desktop/Mystery Mansion/src/assets/images/Slogan Background.jpg") no-repeat center center;
     width: 100px;
     height: 500px;
     max-width: 100%;
