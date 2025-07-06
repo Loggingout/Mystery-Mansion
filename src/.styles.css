@@ -11,18 +11,17 @@ body {
 }
 
 .header-background {
-      background: url("C:/Users/someo/OneDrive/Desktop/Mystery Mansion/src/assets/images/Slogan Background.jpg") no-repeat center center;
+    background: url("C:/Users/someo/OneDrive/Desktop/Mystery Mansion/src/assets/images/Slogan Background.jpg") no-repeat center center;
     width: 100%;
     height: 100vh;
-    max-width: 100%;
-    border-radius: 10px;
-    padding: 20px;
+    padding: 10px;
     background-size: cover;
     background-position: center;
 }
 
 .brand-name {
     font-family: Impact, sans-serif;
+    color: black;
 }
 
 .nav-list {
@@ -36,23 +35,9 @@ body {
 }
 
 .nav-item {
-    color: black;
+    color: white;
 }
 
-.slogan-container {
-    background-color: black;
-}
-
-.slogan-img{
-    background: url("C:/Users/someo/OneDrive/Desktop/Mystery Mansion/src/assets/images/Slogan Background.jpg") no-repeat center center;
-    width: 100px;
-    height: 580px;
-    max-width: 100%;
-    background-size: cover;
-    border-radius: 10px;
-    padding: 20px;
-    box-shadow: 0px 8px 18px rgba(0, 0, 0, 0.1);
-}
 
 .slogan-title {
     font-size: 3.5em;
@@ -67,29 +52,6 @@ body {
     font-size: 2em;
     color: white;
     margin-top: 4.5em;
-}
-
-.features-title {
-    font-family: Impact, sans-serif;
-}
-
-.features-container {
-    background-image: url('C:\Users\someo\OneDrive\Desktop\Mystery Mansion\src\assets\images\Features Background.jpg');
-    height: 100vh;
-    width: 100%;
-    background-size: cover;
-}
-
-.card-background {
-    background-image: radial-gradient( circle farthest-corner at 6.3% 21.8%,  rgba(236,6,117,1) 0%, rgba(13,32,67,1) 90% );
-}
-
-.card-background h3 {
-    color: white;
-}
-
-.card-text {
-    color: white;
 }
 
 
