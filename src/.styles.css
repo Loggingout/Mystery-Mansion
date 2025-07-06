@@ -45,6 +45,7 @@ svg {
 .slogan-container {
     padding: 10% 0;
     text-wrap: wrap;
+    text-align: center;
 }
 
 .slogan-title {
@@ -63,8 +64,16 @@ svg {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
-
-
+.slogan-button {
+    background-color: orange;
+    color: black;
+    font-size: 1.5em;
+    padding: 0.5em 2em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
 /* Login Form Styles */
 .login-header-background {
     background-color: black;
