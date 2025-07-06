@@ -70,7 +70,7 @@ label {
     font-weight: bold;
 }
 
-input {
+form input {
     border: 2px solid black;
 }
 
@@ -80,7 +80,7 @@ input {
     margin: 5em auto;
     padding: 2em;
     border-radius: 10px;
-    border: 2.5px solid red;
+    border: 2px solid red;
     box-shadow: 0px 8px 18px rgba(0, 0, 0, 0.1);
 }
 
