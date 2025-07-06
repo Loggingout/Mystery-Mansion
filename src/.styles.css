@@ -63,12 +63,6 @@ svg {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
-.slogan-description {
-    font-size: 2em;
-    color: black;
-    margin-top: 4.5em;
-}
-
 /* Login Form Styles */
 .login-header-background {
     background-color: black;
