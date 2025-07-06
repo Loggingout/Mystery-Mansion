@@ -21,7 +21,7 @@ body {
 
 .brand-name {
     font-family: Impact, sans-serif;
-    color: black;
+    color: white;
 }
 
 .nav-list {
@@ -35,6 +35,10 @@ body {
 }
 
 .nav-item {
+    color: white;
+}
+
+svg {
     color: white;
 }
 
